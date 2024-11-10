@@ -29,7 +29,7 @@ export default function About() {
                 </div>
                 <div className="p-3 shadow-2xl ">
                     <img src="/image/atm2.png" alt="" className="h-72 " />
-                    <h4>calculator</h4>
+                    <h4>ATM</h4>
                 </div>
             </div>
         </div>
